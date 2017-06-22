@@ -1,7 +1,7 @@
 # SignupApp
 
 A compiled APK of this app to install on an Android device can be downloaded here:
-http://geoffledak.com/signupapp/SignupApp.apk
+http://geoffledak.com/signupapp/signupapp2.apk
 
 A hardcoded default image will be shown if no avatar url is entered. If an avatar url is entered, the image can be tapped to see a larger version of it.
 

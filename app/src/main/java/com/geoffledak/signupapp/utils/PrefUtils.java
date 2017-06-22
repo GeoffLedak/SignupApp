@@ -22,9 +22,8 @@ public class PrefUtils {
 
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(context);
 
-        if( preferences.contains( key ) ) {
+        if( preferences.contains( key ) )
             return preferences.getString(key, "");
-        }
         else
             return "";
     }
